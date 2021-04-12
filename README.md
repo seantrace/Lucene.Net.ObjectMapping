@@ -1,6 +1,10 @@
 # Lucene.Net.ObjectMapping
 Mapping of .NET objects to Lucene.Net Documents and vice versa.
 
+Fork
+----
+Forked to update to .NET 5
+
 Installation
 ------------
 Simply download the `Lucene.Net.ObjectMapping` NuGet package like this:
